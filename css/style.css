@@ -1,0 +1,118 @@
+.li-item{
+    color:rgba(39, 76, 91, 1);
+    display: inline-block;
+    margin: 40px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.navigation{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 40px;  
+    padding-left: 160px; 
+}
+.logo{ 
+    vertical-align: middle;
+    font-family: 'Roboto', sans-serif;
+    color: rgba(39, 76, 91, 1); 
+    padding-left: 162px;  
+}
+.header{
+    width: Fixed (1,595.79px);
+    padding-top: 69px;
+    padding-bottom: 69px;
+    padding-left: 162px;
+    padding-right: 162px;
+}
+.name{
+    display: inline-block;
+    margin-left: 8.21px;
+    font-family: 'Roboto', sans-serif;
+    color:rgba(39, 76, 91, 1);
+}
+.latinuri-absoluturi{ 
+    font-family: 'Dancing Script', cursive;
+    font-size: 36px;
+    margin-bottom: 6px;
+    color: rgba(126, 182, 147, 1);
+}
+.text-we{
+    color: rgba(39, 76, 91, 1);
+    margin-bottom: 25px;
+    margin-top: 6px;
+    font-family: 'Roboto', sans-serif;
+    color: rgba(39, 76, 91, 1);
+    size:50px
+}
+.text-simply{
+    color:rgba(82, 92, 96, 1);
+    margin-bottom: 36px
+}
+
+.icon-color{
+    background-color: rgba(236, 236, 236, 1);
+    display: inline-block;
+    margin-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 12px;
+    padding-left: 30px;
+    padding-right: 40px;
+    font-family: 'Roboto', sans-serif;
+    color:rgba(39, 76, 91, 1);    
+}
+.p-color{
+    display:block;
+    margin-left: 60px;
+    margin-top: 12px;
+    margin-bottom: 24px;
+}
+.text-div{
+    background-color:rgba(249, 248, 248, 1);
+    display: inline-block;
+    vertical-align:middle;
+    Width:678px;    
+}
+.photo-div{
+    display: inline-block;
+    vertical-align:middle;
+    Width:678px;    
+}
+.back-size{
+    width: 1560px;
+}
+.section-background{
+    background-color: rgba(249, 248, 248, 1);
+    padding: 22.5px;
+    padding-bottom: 22.5;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.icon-size{
+  padding-right: 6px;
+}
+.bolo{
+    display: inline-block;
+    vertical-align: middle;
+    padding-top: 80px;
+    padding-left: 15px;
+    margin-left: 10px;
+    background-color: rgba(255, 255, 255, 1);
+    color:rgba(39, 76, 91, 1);
+}
+.mii{
+     font-family: 'Roboto', sans-serif;
+}
+.ni{
+    padding-top: 25px;
+    padding-bottom: 120px;
+    padding-left: 2px;
+    padding-right: 2px;
+    color:rgba(82, 92, 96, 1)   
+}
+.div2{
+    background-color: rgba(249, 248, 248, 1);
+    padding-bottom: 30px;
+}
+.photo-radius{
+    border-radius: 30px; 
+}
